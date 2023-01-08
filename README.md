@@ -11,6 +11,8 @@ Projet mené dans le cadre de l'UE NF19 à l'Université de Technologie de Troye
 ## Installation
 1. Obtenir le dossier wordpress-docker-compose
     * Télécharger ZIP : bouton code > Download ZIP 
+        ![Tuto téléchargement](D:\Users\Jeanne\Documents\Cours\UTT\NF19 - Administration et virtualisation des systèmes et des bases de données\Projet\telecharger.png "Tuto téléchargement")
+
     * Décompresser le fichier ZIP dans le dossier de votre choix.
     * Vérifier que le dossier NF19_GiftCard contient le dossier wordpress-docker-compose.
 
