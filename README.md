@@ -37,9 +37,11 @@ Si le terminal ne reconnait pas le terme Docker, l'installation a échoué
 ## 2. Obtenir le dossier wordpress-docker-compose :
 
 * Téléchargez le dossier ZIP : cliquer sur le bouton Code > Download ZIP 
-    ![Alt text](../wordpress-docker-compose/git_download.png "Optional title")
+
+    ![Voir comment](https://github.com/evebrnd/NF19_GiftCard/blob/master/git_download.png)
 * Décompressez le fichier ZIP dans le dossier de votre choix
-    ![Alt text](../wordpress-docker-compose/zip_decompress.png "Optional title")
+
+    ![Voir comment](https://github.com/evebrnd/NF19_GiftCard/blob/master/zip_decompress.png)
 * Vérifiez que le dossier NF19_GiftCard décompressé contient le dossier wordpress-docker-compose.
 
 ## 3. Installer le système :
