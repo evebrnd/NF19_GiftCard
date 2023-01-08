@@ -9,7 +9,7 @@ Projet mené dans le cadre de l'UE NF19 à l'Université de Technologie de Troye
 2. Lancer docker-compose
 
 ## Installation
-1. Obtenir le dossier wordpress-docker-compose
+1. Obtenir le dossier wordpress-docker-compose :
     * Télécharger ZIP : bouton code > Download ZIP 
     * Décompresser le fichier ZIP dans le dossier de votre choix.
     * Vérifier que le dossier NF19_GiftCard contient le dossier wordpress-docker-compose.
@@ -21,7 +21,7 @@ Projet mené dans le cadre de l'UE NF19 à l'Université de Technologie de Troye
 
 3. Avoir accès au site customisé : 
     * En tant que vistiteur : ouvrir votre navigateur et rechercher http://localhost:8000
-    * En tant que visiteur : ouvrir un navigateur et rechercher  http://localhost/wp-admin/ . Se connecter avec les l'identifiant admin et mot de passe admin.
+    * En tant que visiteur : ouvrir un navigateur et rechercher  http://localhost/wp-admin/ . Se connecter avec l'identifiant admin et mot de passe admin.
 
 
 ## Auteurs
